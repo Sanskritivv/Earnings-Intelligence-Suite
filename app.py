@@ -54,7 +54,7 @@ elif uploaded_file and not api_key_input:
 
 # Render UI if data exists
 if st.session_state.chunks:
-    tab1, tab2, tab3 = st.tabs(["📊 KPI Flash Cards", "📉 Sentiment Heatmap", "💬 Contextual Chat"])
+    tab1, tab2, tab3 = st.tabs(["KPI Flash Cards", "Sentiment Heatmap", "Contextual Chat"])
     
     with tab1:
         st.subheader("Key Performance Indicators")
