@@ -4,10 +4,10 @@ Transform dense quarterly earnings transcripts into actionable investment insigh
 
 ## Features
 
-- **📄 Document Ingest**: Upload PDF earnings transcripts directly via the sidebar.
-- **📊 Automated KPI Extraction**: Leverage LLMs to extract Revenue, EPS, and Guidance figures into a structured format.
-- **📉 Sentiment Heatmap**: Use FinBERT for domain-specific NLP to run a rolling sentiment check and identify "Bullish" vs "Bearish" narrative trends in the Q&A section.
-- **💬 Contextual Chat (RAG)**: Ask specific deep-dive questions against the document context (e.g., "What did they say about the supply chain?") using a Retrieval-Augmented Generation approach.
+- **Document Ingest**: Upload PDF earnings transcripts directly via the sidebar.
+- **Automated KPI Extraction**: Leverage LLMs to extract Revenue, EPS, and Guidance figures into a structured format.
+- **Sentiment Heatmap**: Use FinBERT for domain-specific NLP to run a rolling sentiment check and identify "Bullish" vs "Bearish" narrative trends in the Q&A section.
+- **Contextual Chat (RAG)**: Ask specific deep-dive questions against the document context (e.g., "What did they say about the supply chain?") using a Retrieval-Augmented Generation approach.
 
 ## Technical Architecture
 
