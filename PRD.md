@@ -1,4 +1,4 @@
-This Product Requirements Document (PRD) outlines the **"Vibe-Coded" Earnings Intelligence Suite**. Since this is a project designed for rapid development, the focus is on a **high-impact MVP** (Minimum Viable Product).
+This Product Requirements Document (PRD) outlines the **Earnings Intelligence Suite**. Since this is a project designed for rapid development, the focus is on a **high-impact MVP** (Minimum Viable Product).
 
 ---
 
